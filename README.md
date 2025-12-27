@@ -13,15 +13,19 @@ The pipeline automates the following steps:
 
 # Project structure
 
+## Project structure
+
+```text
 nf-geo-rnaseq-qc-de/
-├── main.nf              
-├── nextflow.config     
-├── scripts/            
+├── main.nf
+├── nextflow.config
+├── scripts/
 │   ├── download_counts.py
 │   ├── build_matrices.py
 │   ├── qc_plots.py
 │   └── differential_expression.py
 ├── README.md
+
 
 # Parameters
 
