@@ -11,9 +11,8 @@ The pipeline automates the following steps:
 5. Generating quality control visualization plots.
 6. Running differential expression analysis and generating volcano plots for visualization.
 
-# Project structure
 
-## Project structure
+# Project structure
 
 ```text
 nf-geo-rnaseq-qc-de/
@@ -25,7 +24,7 @@ nf-geo-rnaseq-qc-de/
 │   ├── qc_plots.py
 │   └── differential_expression.py
 ├── README.md
-
+```
 
 # Parameters
 
